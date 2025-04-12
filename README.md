@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Mariam Hussein!
 
-<!--
-**mariamibrahimzz/mariamibrahimzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate **Electronics and Communication Engineering** student (rising junior) with a passion for **Embedded Systems**.  
+🛠️ I'm also exploring **Data Science** as a side track — because why not mix hardware with smart data?
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- 💡 Building embedded systems projects with Arduino and sensors  
+- 📊 Analyzing data using Python, Pandas, and Matplotlib  
+- 🌐 Freelancing in data analysis  
+- 🤝 Active in leadership & civic engagement initiatives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- STM32 & ARM programming  
+- Real-time operating systems (RTOS)  
+- Machine learning integration with embedded systems  
+
+## 💬 Ask Me About
+- Arduino, sensors, and C/C++ for microcontrollers  
+- Freelancing tips for data analysis  
+- How to mix tech with leadership 🚀
+
+## 📫 Let’s Connect!
+- 📧 [mariam2309039@miuegypt.edu.eg]  
+- 🔗 [(https://www.linkedin.com/in/mariamibrahimmzz/)]  
+- 🌐 [https://mariam2309039.wixsite.com/data-analyst-portfol]
+
+---
+
