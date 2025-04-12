@@ -21,7 +21,7 @@
 
 ## 📫 Let’s Connect!
 - 📧 [mariam2309039@miuegypt.edu.eg]  
-- 🔗 [(https://www.linkedin.com/in/mariamibrahimmzz/)]  
+- 🔗 [https://www.linkedin.com/in/mariamibrahimmzz/]  
 - 🌐 [https://mariam2309039.wixsite.com/data-analyst-portfol]
 
 ---
