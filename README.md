@@ -1,4 +1,4 @@
-# 💡Mariam Ibrahim| AI & ML Enthusiast | Embedded Systems Explorer
+# 💡Mariam Ibrahim | AI & ML Enthusiast | Embedded Systems Explorer
 
 Hey there! I'm Mariam Ibrahim, a passionate Electronics & Communication Engineering student with a sharp edge in **Artificial Intelligence** and **Machine Learning**. When I’m not wiring circuits or diving into embedded systems, I’m training models, building smart solutions, and solving real-world problems with data.
 
